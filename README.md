@@ -98,4 +98,3 @@ COPY ./nginx.conf /etc/nginx/conf.d/default.conf
 
 ***
 
-<img src="images/3sem-setup-remote.drawio.png" alt="3 semester local environment setup">
